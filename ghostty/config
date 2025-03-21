@@ -1,0 +1,18 @@
+theme = Eldritch
+
+background-opacity = 1
+
+command = zsh --login -c "if command -v tmux >/dev/null 2>&1; then tmux attach || tmux; else zsh; fi"
+
+window-padding-x = 4,2
+window-padding-y = 6,0
+
+font-size = 15
+
+macos-option-as-alt = right
+
+keybind = cmd+option+t=toggle_quick_terminal
+quick-terminal-animation-duration = 0.08
+
+keybind = super+i=inspector:toggle
+keybind = super+r=reload_config
