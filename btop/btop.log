@@ -1,0 +1,14 @@
+
+2025/03/25 (01:50:04) | ===> btop++ v.1.4.0
+2025/03/25 (01:50:04) | ERROR: Invalid hex value: ebfafa
+
+# Color of inactive/disabled text
+theme[inactive_fg]=
+2025/03/25 (01:50:04) | ERROR: Invalid hex value: ebfafa
+
+# Background color of the percentage meters
+theme[meter_bg]=
+2025/03/25 (01:50:04) | ERROR: Invalid hex value: ebfafa
+
+# Title color for boxes
+theme[title]=
