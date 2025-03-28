@@ -64,3 +64,4 @@ flycheck_*.el
 *.code-workspace
 setup.sh
 /tmux/plugins
+/nvchad.bak
