@@ -7,6 +7,7 @@ command = zsh --login -c "if command -v tmux >/dev/null 2>&1; then tmux attach |
 window-padding-x = 4,2
 window-padding-y = 6,0
 
+font-family = "FiraCode Nerd Font Mono Ret"
 font-size = 15
 
 macos-option-as-alt = right
