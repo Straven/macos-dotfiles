@@ -1,13 +1,13 @@
 theme = Eldritch
 
-background-opacity = 1
+background-opacity = 0.85
 
 command = zsh --login -c "if command -v tmux >/dev/null 2>&1; then tmux attach || tmux; else zsh; fi"
 
 window-padding-x = 4,2
 window-padding-y = 6,0
 
-font-family = "FiraCode Nerd Font Mono Ret"
+font-family = "FiraCode Nerd Font"
 font-size = 15
 
 macos-option-as-alt = right
